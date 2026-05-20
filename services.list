@@ -1,0 +1,12 @@
+dragonboy-api-gateway|api-gateway|nestjs
+dragonboy-auth-service|auth-service|nestjs
+dragonboy-user-service|user-service|nestjs
+dragonboy-game-service|game-service|nestjs
+dragonboy-game-data-service|game-data-service|nestjs
+dragonboy-item-service|item-service|nestjs
+dragonboy-pay-service|pay-service|nestjs
+dragonboy-social-network-service|social-network-service|nestjs
+dragonboy-queue-service|queue-service|nestjs
+dragonboy-disciple-service|disciple-service|nestjs
+dragonboy-admin-service|admin-service|nestjs
+dragonboy-game-service-go|game-service-go|go
